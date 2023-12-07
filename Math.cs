@@ -6,10 +6,3 @@ public class Math
 
     }
 }
-public class Calc
-{
-    public Calc()
-    {
-
-    }
-}
